@@ -102,16 +102,16 @@ sql-practice-project/
 
 | # | Question | Concept | Difficulty |
 |---|---|---|---|
-| Q1 | List all employees with dept name — include those with no dept | LEFT JOIN | 🟢 Easy |
-| Q2 | Total salary and headcount per dept (more than 1 employee) | GROUP BY + HAVING | 🟢 Easy |
-| Q3 | Highest paid employee in each department | MAX per group | 🟡 Medium |
-| Q4 | Each employee with their manager's name | Self JOIN | 🟡 Medium |
-| Q5 | Employees who joined in last 5 years + days worked | Date filter + DATEDIFF | 🟢 Easy |
-| Q6 | Total order amount per month in 2024 | Date GROUP BY | 🟡 Medium |
-| Q7 | Departments with no employees | LEFT JOIN + NULL check | 🟡 Medium |
-| Q8 | Gap in days between Alice's consecutive orders | LAG + DATEDIFF | 🔴 Hard |
-| Q9 | Employees who only ever placed cancelled orders | Multi JOIN + logic filter | 🔴 Hard |
-| Q10 | Running total of order amounts ordered by date | SUM() OVER window | 🔴 Hard |
+| Q1 | List all employees with dept name — include those with no dept | LEFT JOIN |
+| Q2 | Total salary and headcount per dept (more than 1 employee) | GROUP BY + HAVING |
+| Q3 | Highest paid employee in each department | MAX per group | 
+| Q4 | Each employee with their manager's name | Self JOIN | 
+| Q5 | Employees who joined in last 5 years + days worked | Date filter + DATEDIFF | 
+| Q6 | Total order amount per month in 2024 | Date GROUP BY | 
+| Q7 | Departments with no employees | LEFT JOIN + NULL check | 
+| Q8 | Gap in days between Alice's consecutive orders | LAG + DATEDIFF | 
+| Q9 | Employees who only ever placed cancelled orders | Multi JOIN + logic filter |
+| Q10 | Running total of order amounts ordered by date | SUM() OVER window |
 
 ---
 
@@ -148,3 +148,4 @@ sql-practice-project/
 ## 🔗 Connect With Me
 
 Feel free to reach out or connect on LinkedIn if you're also learning SQL or working on data projects!
+https://www.linkedin.com/in/sant-sahu-738063319/
