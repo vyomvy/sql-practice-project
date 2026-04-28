@@ -148,4 +148,5 @@ sql-practice-project/
 ## 🔗 Connect With Me
 
 Feel free to reach out or connect on LinkedIn if you're also learning SQL or working on data projects!
+
 https://www.linkedin.com/in/sant-sahu-738063319/
